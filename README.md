@@ -55,6 +55,12 @@
 - [Alili.tech - 前端微服务化解决方案7 - 静态数据共享](http://alili.tech/archive/5e00e43d/)
 - [Alili.tech - 前端微服务化解决方案8 - 二次构建](http://alili.tech/archive/ce685b9f/)
 
+#### 第十四届 D2 微前端专场
+
+- [语雀 - 云生态新物种 —— 微前端架构体系](https://www.yuque.com/preview/yuque/0/2019/pdf/333434/1577094595095-fc7b3af2-c6e5-4373-93a7-a03a6912d22b.pdf)
+- [语雀 - 标准微前端架构在蚂蚁的落地实践](https://www.yuque.com/office/yuque/0/2019/pdf/333434/1577094607775-dc693f2f-da57-4ddc-b000-776a1cfe4b30.pdf)
+- [语雀 - 微前端沙盒体系](https://www.yuque.com/office/yuque/0/2019/pdf/333434/1577094624429-fc927643-26d4-4af0-a3d9-f630d51eb5ba.pdf)
+
 #### Angular
 
 - [AngularInDepth - 构建微前端 Angular Elements](https://zhuanlan.zhihu.com/p/98754714)
